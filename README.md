@@ -26,11 +26,11 @@
 
 ***
 ### Rewrite
-* [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Rewrite)  
+* [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/tree/master/Rewrite)  
 
 ***
-### scripts
-* [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/scripts)  
+### Scripts
+* [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/tree/master/Scripts)  
 
 
 ***
