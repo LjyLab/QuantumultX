@@ -22,15 +22,15 @@
 
 * [Quantumult X Task-icon](https://github.com/LjyLab/QuantumultX/Bubble/Task)  
 
-* [Quantumult X Flag-icon](https://github.com/LjyLab/QuantumultX/Bubble/Flag-icon)  
+* [Quantumult X Flag-icon](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Flag-icon)  
 
 ***
 ### Rewrite
-* [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/Bubble/Rewrite)  
+* [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Rewrite)  
 
 ***
 ### scripts
-* [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/Bubble/scripts)  
+* [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/scripts)  
 
 
 ***
