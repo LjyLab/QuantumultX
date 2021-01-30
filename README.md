@@ -18,19 +18,33 @@
 
 ***
 ### Bubble
+<<<<<<< HEAD
 * [Quantumult X icon](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/IconSet)  
 
 * [Quantumult X Task-icon](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Task)  
+=======
+* [Quantumult X icon](https://github.com/LjyLab/QuantumultX/Bubble/IconSet)  
+
+* [Quantumult X Task-icon](https://github.com/LjyLab/QuantumultX/Bubble/Task)  
+>>>>>>> 0456b18c967cad0ebcfad44cc1dd42f492017426
 
 * [Quantumult X Flag-icon](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Flag-icon)  
 
 ***
 ### Rewrite
+<<<<<<< HEAD
 * [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/Rewrite)  
 
 ***
 ### scripts
 * [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/tree/master/Bubble/scripts)  
+=======
+* [Quantumult X 重写](https://github.com/LjyLab/QuantumultX/tree/master/Rewrite)  
+
+***
+### Scripts
+* [Quantumult X 脚本](https://github.com/LjyLab/QuantumultX/tree/master/Scripts)  
+>>>>>>> 0456b18c967cad0ebcfad44cc1dd42f492017426
 
 
 ***
